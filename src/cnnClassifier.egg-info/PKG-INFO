@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/sachinkennyr/kidney-disease-classification-deeplearning
+Author: sachinkennyr
+Author-email: sachinkenny@gmail.com
+Project-URL: Bug Tracker, https://github.com/sachinkennyr/kidney-disease-classification-deeplearning/issues
+
+# kidney-disease-classification-deeplearning
+End to End Project to Classify Kidney Disease
